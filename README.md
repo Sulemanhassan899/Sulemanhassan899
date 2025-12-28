@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 About Me
-I’m a **Mid-Level Flutter Developer & Full-Stack Enthusiast** with **2.5+ years of hands-on experience** building **scalable, high-quality, production-ready applications** for **Android, iOS, and Web**.
+ **I’m a Mid-Level Flutter Developer & Full-Stack Enthusiast** with **2.5+ years of hands-on experience** building **scalable, high-quality, production-ready applications** for **Android, iOS, and Web**.
 
-I specialize in **Flutter, React, and React Native**, along with strong backend integration skills using **Firebase, Supabase, Appwrite, REST APIs, and SQL-based databases**. I have delivered **30+ production-level apps**, handling the **entire development lifecycle** — from **UI/UX design** to **backend logic, testing, deployment, and post-release support**.
+ **I specialize in Flutter, and React Native , along with strong backend integration skills using Firebase, Supabase, Appwrite, REST APIs, and SQL-based databases. I have delivered **30+ production-level apps, handling the **entire development lifecycle** — from UI/UX design  to backend logic, testing, deployment, and post-release support**.
 
 I enjoy solving real-world problems, learning new technologies, and continuously improving my development workflow with a strong focus on **clean architecture, performance optimization, and reusable code**.
 
@@ -53,13 +53,15 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JS](https://img.shields.io/badge/js-%2320232a.svg?style=for-the-badge&logo=js&logoColor=%2361DAFB)
+
 
 ---
 
 ### 📱 Mobile, Web & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -90,6 +92,7 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 ![Google Play Console](https://img.shields.io/badge/Google%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mac Terminal](https://img.shields.io/badge/Mac%20Terminal-4D4D4D?style=for-the-badge&logo=Mac-terminal&logoColor=white)
 
 ---
 
@@ -109,25 +112,10 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ---
 
-## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Sulemanhassan899&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulemanhassan899&theme=dark&layout=compact)
-
-**Linear Progress (Example: 70% filled)**  
-![70%](https://progress-bar.dev/70/)
-
----
-
 ## 🔥 Coding Streak
 ![Streak Badge](https://img.shields.io/badge/🔥%20Longest%20Streak-200%2B%20Days-orange?style=for-the-badge)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sulemanhassan899&theme=dark)
 
 ---
 
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=Sulemanhassan899&theme=radical&no-bg=true)
-
----
-
-⭐ **Nothing left out. Everything included.**  
-🚀 *Always building. Always learning.*
+🚀 *"Code is not just what we write, it's what we leave for the future to build upon.*
