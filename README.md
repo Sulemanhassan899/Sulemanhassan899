@@ -114,8 +114,9 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ## 🔥 Coding Streak
 ![Streak Badge](https://img.shields.io/badge/🔥%20Longest%20Streak-200%2B%20Days-orange?style=for-the-badge)
-![](https://nirzak-streak-stats.vercel.app/?user=Sulemanhassan899&theme=dark)
 
 ---
+
+![](https://nirzak-streak-stats.vercel.app/?user=Sulemanhassan899&theme=dark)
 
 🚀 *"Code is not just what we write, it's what we leave for the future to build upon.*
