@@ -68,8 +68,6 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ### 🔥 Backend, Cloud & Frameworks
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -115,6 +113,9 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 ![](https://github-readme-stats.vercel.app/api?username=Sulemanhassan899&theme=dark&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulemanhassan899&theme=dark&layout=compact)
 
+**Linear Progress (Example: 70% filled)**  
+![70%](https://progress-bar.dev/70/)
+
 ---
 
 ## 🔥 Coding Streak
@@ -125,11 +126,6 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Sulemanhassan899&theme=radical&no-bg=true)
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Sulemanhassan899&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
