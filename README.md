@@ -7,7 +7,7 @@
 ## 🚀 About Me
  **I’m a Flutter Developer & Full-Stack Enthusiast** with **2.5+ years of hands-on experience** building **scalable, high-quality, production-ready applications** for **Android, iOS, and Web**.
 
- **I specialize in Flutter, and React Native , along with strong backend integration skills using Firebase, Supabase, Appwrite, REST APIs, and SQL-based databases. I have delivered **30+ production-level apps, handling the **entire development lifecycle** — from UI/UX design  to backend logic, testing, deployment, and post-release support**.
+ **I specialize in Flutter, and React Native , along with strong backend integration skills using Firebase, Supabase, Appwrite, REST APIs, and SQL-based databases. I have delivered** **30+ production-level apps, handling the **entire development lifecycle** — from UI/UX design  to backend logic, testing, deployment, and post-release support**.
 
 I enjoy solving real-world problems, learning new technologies, and continuously improving my development workflow with a strong focus on **clean architecture, performance optimization, and reusable code**.
 
