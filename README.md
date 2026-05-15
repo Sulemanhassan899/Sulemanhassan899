@@ -1,15 +1,23 @@
 # 👋 Hi, I'm Suleman Hassan
 
-🚀 **Flutter Developer | Android & iOS | React | Full-Stack Mobile & Frontend Enthusiast**
+🚀 **Flutter Developer | Android & iOS Mobile Application Engineer | Full-Stack Mobile & Frontend Enthusiast**
 
 ---
 
 ## 🚀 About Me
- **I’m a Flutter Developer & Full-Stack Enthusiast** with **2.5+ years of hands-on experience** building **scalable, high-quality, production-ready applications** for **Android, iOS, and Web**.
+**I’m a Flutter Developer** with **strong hands-on experience** in building **scalable, high-performance, and production-ready mobile applications** for **Android and iOS**. I specialize in turning ideas into fully functional digital products with a strong focus on usability, performance, and real-world impact.
 
- **I specialize in Flutter, and React Native , along with strong backend integration skills using Firebase, Supabase, Appwrite, REST APIs, and SQL-based databases. I have delivered** **30+ production-level apps, handling the **entire development lifecycle** — from UI/UX design  to backend logic, testing, deployment, and post-release support**.
+I have worked extensively with **Flutter for cross-platform development**, delivering smooth, responsive, and visually consistent applications across multiple device sizes and operating systems. My work covers the complete development lifecycle, including **UI implementation, architecture design, backend integration, testing, and maintenance**.
 
-I enjoy solving real-world problems, learning new technologies, and continuously improving my development workflow with a strong focus on **clean architecture, performance optimization, and reusable code**.
+I have successfully delivered **30+ production-grade mobile applications**, ranging from simple utility apps to complex, feature-rich systems. These applications are designed with a strong focus on **clean structure, scalability, maintainability, and performance optimization**, ensuring they remain stable and efficient even as they grow in complexity.
+
+My expertise includes working with **Firebase, Supabase, Appwrite, REST APIs, and SQL-based databases**, enabling seamless integration between frontend and backend systems. I also have experience implementing **authentication systems, real-time data synchronization, cloud storage solutions, and secure API communication**.
+
+I focus heavily on building applications that are **fast, responsive, and optimized for real-world usage**, ensuring smooth performance even on low-end devices. I pay close attention to **UI/UX details, animations, transitions, and overall user experience**, aiming to deliver polished and professional-grade mobile applications.
+
+I enjoy solving complex development challenges, improving existing systems, and continuously refining my skills by exploring modern Flutter practices and architectural patterns. I believe in writing **clean, reusable, and maintainable code** that supports long-term project growth.
+
+My goal is to build **high-quality Flutter applications that are not only technically strong but also deliver meaningful and intuitive user experiences**.
 
 ---
 
@@ -35,6 +43,9 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 - ✍️ **Technical Blogger & Continuous Learner**
 
 ---
+
+## 🌐 Portfolio
+👉 https://69e8f63dcd5cda0008539885--sulemanhassanportfolio.netlify.app
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Suleman%20Hassan)
